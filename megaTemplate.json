@@ -1,0 +1,50 @@
+{
+  "name": "mega",
+  "tags": [
+    "temp"
+  ],
+  "dimensions": {
+    "height": 2.2,
+    "width": 2.2,
+    "length": 1
+  },
+  "abilities": {
+    "abilities": [
+      "RockHead"
+    ]
+  },
+  "battleStats": {
+    "hp": 95,
+    "attack": 158,
+    "defense": 145,
+    "specialAttack": 75,
+    "specialDefense": 105,
+    "speed": 56
+  },
+  "weight": 310.0,
+  "genderProperties": [
+    {
+      "gender": "ALL",
+      "palettes": [
+        {
+          "name": "none",
+          "texture": "pixelmon:pokemon/389_torterra/all/mega/none/texture.png",
+          "sprite": "pixelmon:pokemon/389_torterra/all/mega/none/sprite.png",
+          "particle": "",
+          "modelLocator": {
+            "factoryType": "NORMAL",
+            "pqc": [
+              "pixelmon:pokemon/389_torterra/all/mega/none/model.pqc"
+            ]
+          }
+        },
+        {
+          "name": "shiny",
+          "texture": "pixelmon:pokemon/389_torterra/all/mega/shiny/texture.png",
+          "sprite": "pixelmon:pokemon/389_torterra/all/mega/shiny/sprite.png",
+          "particle": "arcanery:shiny"
+        }
+      ]
+    }
+  ]
+}
