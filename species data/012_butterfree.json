@@ -60,6 +60,12 @@
             ]
           },
           {
+            "level": 22,
+            "attacks": [
+              "Draining Kiss"
+            ]
+          },
+          {
             "level": 24,
             "attacks": [
               "Air Slash"
@@ -93,6 +99,12 @@
             "level": 44,
             "attacks": [
               "Quiver Dance"
+            ]
+          },
+          {
+            "level": 55,
+            "attacks": [
+              "Hurricane"
             ]
           }
         ],
@@ -533,7 +545,7 @@
 
       ],
       "megas": [
-
+        "mega"
       ],
       "gigantamax": {
         "canHaveFactor": true,

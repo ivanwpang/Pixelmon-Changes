@@ -504,11 +504,11 @@
       },
       "battleStats": {
         "hp": 65,
-        "attack": 150,
+        "attack": 155,
         "defense": 40,
         "specialAttack": 15,
         "specialDefense": 80,
-        "speed": 145
+        "speed": 165
       },
       "weight": 40.5,
       "genderProperties": [
